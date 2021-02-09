@@ -1,1 +1,1 @@
-# paper-waste
+# CP-2
